@@ -1,0 +1,10 @@
+﻿  compilation object save succeeded; see E:\Nextcloud\Hochschule\CPP-Development\Dominic\CreateDXWindow\x64\Release\ps.cso
+  compilation object save succeeded; see E:\Nextcloud\Hochschule\CPP-Development\Dominic\CreateDXWindow\x64\Release\vs.cso
+  stdafx.cpp
+  CreateDXWindow.cpp
+  renderer.cpp
+  Code wird generiert.
+e:\nextcloud\hochschule\cpp-development\dominic\createdxwindow\createdxwindow\createdxwindow.cpp(75): warning C4715: "WinMain": Nicht alle Codepfade geben einen Wert zurück.
+  All 84 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  CreateDXWindow.vcxproj -> E:\Nextcloud\Hochschule\CPP-Development\Dominic\CreateDXWindow\x64\Release\CreateDXWindow.exe
